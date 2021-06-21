@@ -10,7 +10,11 @@ Building a model that can classify bank transactions into accounting categories 
 transaction descriptions. 
 
 ● Train the model and any preprocessing steps on the training transactions.
+
 ● Evaluating the performance of the model on the validation transactions provided.
+
 ● Are there any patterns in transactions that are misclassified by the model?
+
 ● Any improvements to the dataset or model?
+
 Implemented appropriate metrics to present findings of the model performance.
